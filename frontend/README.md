@@ -18,11 +18,11 @@ This is the frontend part of a full-stack application for managing "items." It i
 
 ## Technologies Used
 
-- **React.js**: For building the user interface.
+- **Next.js**: For building the user interface.
 - **Redux Toolkit**: For managing the global state of the application.
 - **Axios**: For making HTTP requests to the backend API.
 - **TailwindCSS**: For styling and responsive design.
-- **Ant Design** (optional): For additional UI components if needed.
+- **Material UI**: Offers a rich set of pre-designed components that follow Google's Material Design principles, enhancing the user interface and user experience.
 
 ## Setup Instructions
 
@@ -78,7 +78,6 @@ The frontend interacts with the following backend API endpoints:
 ### UI/UX
 
 - **TailwindCSS**: Provides a modern, responsive design.
-- **Material UI**: Offers a rich set of pre-designed components that follow Google's Material Design principles, enhancing the user interface and user experience.
 
 ## Folder Structure
 
