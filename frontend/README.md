@@ -2,7 +2,7 @@
 
 ## Objective
 
-This is the frontend part of a full-stack application for managing "items." It is built using React.js with Redux Toolkit to handle state management. The backend API is developed with Express.js and TypeScript and integrates with a MySQL database.
+This is the frontend part of a full-stack application for managing "items." It is built using Next.js with Redux Toolkit to handle state management. The backend API is developed with Express.js and TypeScript and integrates with a MySQL database.
 
 ## Features
 
@@ -36,13 +36,13 @@ This is the frontend part of a full-stack application for managing "items." It i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/m3phist/items-management-frontend.git
+    git clone https://github.com/m3phist/arkmind.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd items-management-frontend
+    cd frontend
     ```
 
 3. Install dependencies:
