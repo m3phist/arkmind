@@ -2,7 +2,7 @@
 
 ## Overview
 
-Arkmind is a full-stack application with a **frontend** and a **backend** part. The application aims to manage **items** in a simple inventory system. The backend is built with **Node.js**, **Express**, **Prisma ORM**, and **MySQL**. The frontend uses **React.js** with **TailwindCSS** for styling.
+Arkmind is a full-stack application with a **frontend** and a **backend** part. The application aims to manage **items** in a simple inventory system. The backend is built with **Node.js**, **Express**, **Prisma ORM**, and **MySQL**. The frontend uses **Next.js** with **TailwindCSS** for styling.
 
 ## Folder Structure
 
