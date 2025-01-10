@@ -5,7 +5,7 @@ const Settings = () => {
     <div className="container mx-auto p-6">
       <div className="text-center mb-6">
         <h1 className="text-3xl font-bold text-gray-800">
-          Hello, I'm Aliff Ibrahim
+          Hello, I&apos;m Aliff Ibrahim
         </h1>
         <p className="text-lg text-gray-600 mt-2">
           A results-driven developer specializing in developing and maintaining
