@@ -1,0 +1,72 @@
+[
+  {
+    "id": "6f0d6e4e-2c5a-4a5a-9f2c-8d6a3d5f6e7c",
+    "itemId": 1,
+    "quantity": 2,
+    "unitPrice": 999.99,
+    "totalPrice": 1999.98
+  },
+  {
+    "id": "b1e5d4a3-9f1b-4f5b-9a6f-3e5d6f4c8a7d",
+    "itemId": 2,
+    "quantity": 1,
+    "unitPrice": 2499.99,
+    "totalPrice": 2499.99
+  },
+  {
+    "id": "c3d5e4a6-2f4b-4f6a-9a1c-8f5d6e4b7a6d",
+    "itemId": 3,
+    "quantity": 3,
+    "unitPrice": 1099.99,
+    "totalPrice": 3299.97
+  },
+  {
+    "id": "a4b6c5d7-4f2a-4d6b-8f1a-9c3e4b5f6d7e",
+    "itemId": 4,
+    "quantity": 4,
+    "unitPrice": 249.99,
+    "totalPrice": 999.96
+  },
+  {
+    "id": "d9e1f6b3-3f5a-4a6b-9c2f-7e4b5f6a3d2e",
+    "itemId": 5,
+    "quantity": 1,
+    "unitPrice": 399.99,
+    "totalPrice": 399.99
+  },
+  {
+    "id": "e8f1b6d2-2c4a-4f5b-9a3e-6d4f5a3c7b9e",
+    "itemId": 6,
+    "quantity": 2,
+    "unitPrice": 799.99,
+    "totalPrice": 1599.98
+  },
+  {
+    "id": "f3b2d5e7-1f4a-4a6b-9c3e-5a4b6f7d8e9c",
+    "itemId": 7,
+    "quantity": 1,
+    "unitPrice": 649.99,
+    "totalPrice": 649.99
+  },
+  {
+    "id": "c6e3d5a9-4b5a-4f6a-8f2c-7d4b5e6f9a1e",
+    "itemId": 8,
+    "quantity": 2,
+    "unitPrice": 249.99,
+    "totalPrice": 499.98
+  },
+  {
+    "id": "a9f6d5e3-2c4b-4a6f-9c1a-8d5b4e7f6a3c",
+    "itemId": 9,
+    "quantity": 3,
+    "unitPrice": 199.99,
+    "totalPrice": 599.97
+  },
+  {
+    "id": "b4c5e6a9-3f4a-4f6b-9a2c-7d5b6f8e9c1a",
+    "itemId": 10,
+    "quantity": 1,
+    "unitPrice": 1499.99,
+    "totalPrice": 1499.99
+  }
+]

@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# .env file containing sensitive environment variables
+.env
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+
+# Operating System files
+*.swp
+*~
+
+# Build directories
+/dist
+/build

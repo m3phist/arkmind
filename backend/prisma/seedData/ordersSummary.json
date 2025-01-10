@@ -1,0 +1,92 @@
+[
+  {
+    "ordersSummaryId": "c8a8a7d5-3b65-4ea4-b0a3-8d8bbfa6436a",
+    "totalPrice": 5249.95,
+    "createdAt": "2025-01-08T10:00:00Z",
+    "updatedAt": "2025-01-08T10:00:00Z"
+  },
+  {
+    "ordersSummaryId": "b9f5d6e4-1b7c-42c8-8325-45d3b7f95e6a",
+    "totalPrice": 4999.95,
+    "createdAt": "2025-01-07T12:00:00Z",
+    "updatedAt": "2025-01-07T12:00:00Z"
+  },
+  {
+    "ordersSummaryId": "fa3c7bda-21d9-41c8-9507-d3e7c48b75b5",
+    "totalPrice": 1999.98,
+    "createdAt": "2025-01-06T09:30:00Z",
+    "updatedAt": "2025-01-06T09:30:00Z"
+  },
+  {
+    "ordersSummaryId": "d5f8e6a2-485d-47b5-8884-a7e09dbfa76d",
+    "totalPrice": 799.98,
+    "createdAt": "2025-01-05T11:15:00Z",
+    "updatedAt": "2025-01-05T11:15:00Z"
+  },
+  {
+    "ordersSummaryId": "e3d2c1a4-764a-4fb8-923b-d8b9e4f6a3b7",
+    "totalPrice": 1299.98,
+    "createdAt": "2025-01-04T14:45:00Z",
+    "updatedAt": "2025-01-04T14:45:00Z"
+  },
+  {
+    "ordersSummaryId": "a9e5f6d7-8b5c-49e8-9247-b4d7f6a8e3c2",
+    "totalPrice": 3299.97,
+    "createdAt": "2025-01-03T10:20:00Z",
+    "updatedAt": "2025-01-03T10:20:00Z"
+  },
+  {
+    "ordersSummaryId": "b3c5d8e6-74a8-44e8-9075-f6d9a3b2c5a7",
+    "totalPrice": 1999.95,
+    "createdAt": "2025-01-02T16:00:00Z",
+    "updatedAt": "2025-01-02T16:00:00Z"
+  },
+  {
+    "ordersSummaryId": "f8a2b6e5-9d5c-41a8-9b7e-d3e8a5b7c6a2",
+    "totalPrice": 2799.94,
+    "createdAt": "2025-01-01T13:30:00Z",
+    "updatedAt": "2025-01-01T13:30:00Z"
+  },
+  {
+    "ordersSummaryId": "c5a8d7f6-3b9e-44a5-888b-a7e9c5d6b2a3",
+    "totalPrice": 2499.95,
+    "createdAt": "2024-12-31T08:45:00Z",
+    "updatedAt": "2024-12-31T08:45:00Z"
+  },
+  {
+    "ordersSummaryId": "d2e3c8a4-9d7b-41e5-923a-f6a8b5d7c9e5",
+    "totalPrice": 1549.98,
+    "createdAt": "2024-12-30T17:00:00Z",
+    "updatedAt": "2024-12-30T17:00:00Z"
+  },
+  {
+    "ordersSummaryId": "e7a5d6c9-4b8f-47b9-8083-c7e9a2f5b6d7",
+    "totalPrice": 4199.97,
+    "createdAt": "2024-12-29T15:25:00Z",
+    "updatedAt": "2024-12-29T15:25:00Z"
+  },
+  {
+    "ordersSummaryId": "a9d6c7e8-5b4f-4e7b-935a-d8a2b3f7c9e5",
+    "totalPrice": 2999.97,
+    "createdAt": "2024-12-28T10:50:00Z",
+    "updatedAt": "2024-12-28T10:50:00Z"
+  },
+  {
+    "ordersSummaryId": "b6e3d7a9-8b5f-41c9-8327-c7e8f9d5a6b4",
+    "totalPrice": 4599.94,
+    "createdAt": "2024-12-27T12:10:00Z",
+    "updatedAt": "2024-12-27T12:10:00Z"
+  },
+  {
+    "ordersSummaryId": "f5a8d6c9-9b7e-4a8b-9375-e3b7c5d6a9f2",
+    "totalPrice": 3999.95,
+    "createdAt": "2024-12-26T11:55:00Z",
+    "updatedAt": "2024-12-26T11:55:00Z"
+  },
+  {
+    "ordersSummaryId": "c8a2b5d9-7b6e-47f9-9073-f6a9c5e7b3d8",
+    "totalPrice": 3499.97,
+    "createdAt": "2024-12-25T14:35:00Z",
+    "updatedAt": "2024-12-25T14:35:00Z"
+  }
+]

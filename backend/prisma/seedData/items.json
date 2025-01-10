@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 13",
+    "description": "Latest iPhone model",
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "name": "Apple MacBook Pro 16\"",
+    "description": "Powerful MacBook with M1 Pro chip",
+    "price": 2499.99
+  },
+  {
+    "id": 3,
+    "name": "Apple iPad Pro",
+    "description": "Latest 12.9-inch iPad Pro",
+    "price": 1099.99
+  },
+  {
+    "id": 4,
+    "name": "Apple AirPods Pro",
+    "description": "Noise-cancelling wireless earbuds",
+    "price": 249.99
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 7",
+    "description": "Smartwatch with fitness tracking",
+    "price": 399.99
+  },
+  {
+    "id": 6,
+    "name": "Samsung Galaxy S21",
+    "description": "Latest Samsung Galaxy model",
+    "price": 799.99
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy Tab S7",
+    "description": "High-performance tablet",
+    "price": 649.99
+  },
+  {
+    "id": 8,
+    "name": "Samsung Galaxy Watch 4",
+    "description": "Smartwatch with advanced health features",
+    "price": 249.99
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Buds Pro",
+    "description": "Noise-cancelling wireless earbuds",
+    "price": 199.99
+  },
+  {
+    "id": 10,
+    "name": "Samsung 75\" QLED TV",
+    "description": "Ultra-high definition 75-inch TV",
+    "price": 1499.99
+  }
+]
