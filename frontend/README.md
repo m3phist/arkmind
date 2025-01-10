@@ -2,7 +2,7 @@
 
 ## Objective
 
-This is the frontend part of a full-stack application for managing "items." It is built using React.js with Redux Toolkit to handle state management. The backend API is developed with Express.js and TypeScript and integrates with a MySQL database.
+This is the frontend part of a full-stack application for managing "items." It is built using Next.js with Redux Toolkit to handle state management. The backend API is developed with Express.js and TypeScript and integrates with a MySQL database.
 
 ## Features
 
@@ -18,11 +18,11 @@ This is the frontend part of a full-stack application for managing "items." It i
 
 ## Technologies Used
 
-- **React.js**: For building the user interface.
+- **Next.js**: For building the user interface.
 - **Redux Toolkit**: For managing the global state of the application.
 - **Axios**: For making HTTP requests to the backend API.
 - **TailwindCSS**: For styling and responsive design.
-- **Ant Design** (optional): For additional UI components if needed.
+- **Material UI**: Offers a rich set of pre-designed components that follow Google's Material Design principles, enhancing the user interface and user experience.
 
 ## Setup Instructions
 
@@ -36,13 +36,13 @@ This is the frontend part of a full-stack application for managing "items." It i
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/m3phist/items-management-frontend.git
+    git clone https://github.com/m3phist/arkmind.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd items-management-frontend
+    cd frontend
     ```
 
 3. Install dependencies:
@@ -78,7 +78,6 @@ The frontend interacts with the following backend API endpoints:
 ### UI/UX
 
 - **TailwindCSS**: Provides a modern, responsive design.
-- **Material UI**: Offers a rich set of pre-designed components that follow Google's Material Design principles, enhancing the user interface and user experience.
 
 ## Folder Structure
 
