@@ -39,6 +39,8 @@ The `items` table schema includes the following fields:
 - **PUT** `/api/items/:id`: Updates an item by ID.
 - **DELETE** `/api/items/:id`: Deletes an item by ID.
 
+- **GET** `/api/dashboard`: Retrieves dashboard metrics.
+
 ## Validation
 
 **Zod** is employed for validating the request data to ensure compliance with the defined schemas before any processing.
