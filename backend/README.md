@@ -49,7 +49,7 @@ The `items` table schema includes the following fields:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/backend-api.git
+    git clone https://github.com/m3phist/arkmind.git
     ```
 
 2. **Navigate to the project directory**:
@@ -68,7 +68,7 @@ The `items` table schema includes the following fields:
 
 5. **Initialize Prisma**:
     ```bash
-    npx prisma migrate init
+    npx prisma init
     ```
 
 6. **Generate Prisma client**:
